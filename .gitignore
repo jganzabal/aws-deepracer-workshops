@@ -1,0 +1,6 @@
+log-analysis/.DS_Store
+log-analysis/.ipynb_checkpoints/
+log-analysis/Models/
+log-analysis/__pycache__/
+log-analysis/intermediate_checkpoint/*.pb
+log-analysis/logs/.ipynb_checkpoints/
